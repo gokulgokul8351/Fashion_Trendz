@@ -1,5 +1,5 @@
 # React + Vite
-Ecommerse Website Live link -- > https://shopyfy-ecommerse-store.netlify.app/
+Ecommerse Website Live link -- > https://fashion-trendzside.netlify.app/
 
 Currently, two official plugins are available:
 
